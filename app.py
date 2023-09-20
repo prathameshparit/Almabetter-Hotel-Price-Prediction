@@ -5,7 +5,7 @@ import joblib
 import pandas as pd
 
 
-# We will add some changes new change
+# New changes 
 
 
 # Load the models from the files
